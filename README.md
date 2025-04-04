@@ -1,5 +1,3 @@
-# dharu_basic_single_page_website
-A modern and responsive single-page website using HTML, CSS, and JavaScript. Features smooth scrolling, a fixed navbar, a contact form with validation, and a professional layout.
 
 
 # Professional Single Page Website
